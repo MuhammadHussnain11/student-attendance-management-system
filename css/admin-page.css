@@ -1,0 +1,30 @@
+.heading1{
+    width: 100%;
+    /* height: 100px; */
+    background-color: #4c60da;
+    font-size: 48px;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    
+  }
+  .container-login{
+    background-color: transparent;
+}
+  
+.login-form{
+
+    background-image: url("../img/OIP.jpeg");
+    opacity: 0.8;
+    background-color: transparent;
+
+    width: 100%;
+    height: 100%;
+  
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 30px;
+
+}
+
